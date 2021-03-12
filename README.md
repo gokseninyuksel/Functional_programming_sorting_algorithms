@@ -31,7 +31,7 @@ Second Pass:
 
 Now, the array is already sorted. isSorted function returns true, so recursion breaks and sorted list is returned.
 
-#Insertion Sort
+# Insertion Sort
 
 The worst case time complexity and the best case time complexities are O(n^2)
 
