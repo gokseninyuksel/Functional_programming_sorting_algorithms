@@ -5,7 +5,7 @@ By introducing the implicit variables, lists with specific types can be sorted e
 
 # Bubble Sort
 
-The worst case time complexity and the best case time complexitys is O(n^2)
+The worst case time complexity and the best case time complexities are O(n^2)
 
 Running Example;
 
@@ -30,3 +30,9 @@ Second Pass:
 ( 1 2 4 5 8 ) –>  ( 1 2 4 5 8 )
 
 Now, the array is already sorted. isSorted function returns true, so recursion breaks and sorted list is returned.
+
+#Insertion Sort
+
+The worst case time complexity and the best case time complexities are O(n^2)
+
+Running Example:
