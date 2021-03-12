@@ -1,5 +1,7 @@
 # Functional_programming_sorting_algorithms
-Famous sorting algorithms implemented in scala, using functional programming framework
+Famous sorting algorithms implemented in scala, using functional programming framework.
+
+By introducing the implicit variables, lists with specific types can be sorted easily.
 
 # Bubble Sort
 
